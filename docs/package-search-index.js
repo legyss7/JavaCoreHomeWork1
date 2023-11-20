@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jcore.regular"},{"l":"org.jcore.sample"}];updateSearchResults();
